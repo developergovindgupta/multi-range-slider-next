@@ -1,6 +1,4 @@
 import React, { forwardRef, useEffect, useRef, useState } from 'react';
-import './multirangeslider.css';
-import './multirangesliderblack.css';
 
 type Props = {
 	min?: number | string;

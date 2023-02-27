@@ -1,6 +1,8 @@
 import React, { useEffect, useRef, useState } from 'react';
 import logo from './logo.svg';
 import './App.css';
+import './components/multirangeslider.css';
+import './components/multirangesliderblack.css';
 import MultiRangeSlider, { ChangeResult } from './components/multirangeslider';
 
 function App() {
