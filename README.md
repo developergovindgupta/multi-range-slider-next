@@ -27,16 +27,16 @@ a react component compatible with Next.js that can easy to use and interact with
 
 Download CSS file and modify it and reference it with baseClassName attribute
 
-[multirangeslider.css](https://raw.githubusercontent.com/developergovindgupta/multi-range-slider-react-ts/master/src/components/multirangeslider.css)
+[multirangeslider.css](https://raw.githubusercontent.com/developergovindgupta/multi-range-slider-next/main/src/components/multirangeslider.css)
 
-[multirangesliderblack.css](https://raw.githubusercontent.com/developergovindgupta/multi-range-slider-react-ts/master/src/components/multirangesliderblack.css)
+[multirangesliderblack.css](https://raw.githubusercontent.com/developergovindgupta/multi-range-slider-next/main/src/components/multirangesliderblack.css)
 
 
 
 <hr/>
 
 # view Demo 
-## [GitHub-page](https://developergovindgupta.github.io/multi-range-slider-react-ts/)
+## [GitHub-page](https://developergovindgupta.github.io/multi-range-slider-next/)
 
 <hr/>
 
@@ -124,7 +124,7 @@ copy following code and run on CLI
 ## How to use 
 Example Code 
 
-[download from gitHub](https://github.com/developergovindgupta/multi-range-slider-react-ts "download from gitHub")
+[download from gitHub](https://github.com/developergovindgupta/multi-range-slider-next "download from gitHub")
 
 
 #### App.jsx
